@@ -41,6 +41,7 @@ _VOICE_NAMES = [
     "no-talesyntese-medium",
     "pl-mls_6892-low",
     "pt-br-edresson-low",
+    "ru-irinia-medium",
     "uk-lada-x-low",
     "vi-25hours-single-low",
     "vi-vivos-x-low",
@@ -89,6 +90,9 @@ _VOICES = {
     "portuguese": "pt",
     "pt": "pt-br",
     "pt-br": "pt-br-edresson-low",
+    #
+    "russian": "ru",
+    "ru": "ru-irinia-medium",
     #
     "ukrainian": "uk",
     "uk": "uk-lada-x-low",
